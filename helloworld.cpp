@@ -3,7 +3,6 @@
 using namespace std;
 
 // call the main function to run the program
-// debugging github
 
 int main() {
 
