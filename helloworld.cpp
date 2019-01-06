@@ -6,4 +6,9 @@ using namespace std;
 
 int main() {
 
+	//using cout to print // message // std = standard library // end L = End Line
+	cout << "Hello, World!" << std::endl;
+
+	//returning a number because func type is int
+	return 0;
 }
